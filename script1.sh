@@ -7,5 +7,4 @@ echo "Wife: I want to travel"
 echo "i want to become aws devops engineer"
 echo "let's play ludo"
 echo "i want to play outdoor games"
-
-
+echo "outdoor games are best exercise"
